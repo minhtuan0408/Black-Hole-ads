@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - ammo
+  - shotgun
+  - nade
+  - gun
   layers:
   - Default
   - TransparentFX
@@ -13,7 +17,7 @@ TagManager:
   - UI
   - Mask
   - Masked
-  - 
+  - noColl
   - 
   - 
   - 
